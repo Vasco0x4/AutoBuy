@@ -1,0 +1,10 @@
+colorama==0.4.4
+loguru==0.5.3
+pyaes==1.6.1
+pyasn1==0.4.8
+python-dotenv==0.15.0
+pytz==2020.4
+PyYAML==6.0
+rsa==4.7
+Telethon>=1.27.0
+win32-setctime==1.0.3

@@ -1,0 +1,25 @@
+#  phone number
+account_phone: "+"
+
+# see https://core.telegram.org/api/obtaining_api_id
+api_id: 
+api_hash: 
+
+# parse messages delay in seconds
+delay: 5
+
+# the number of messages whose edits in the original channel will be tracked
+edit_message_checker_limit: 10
+
+
+groups:
+  - name: test
+  
+    sources:
+      - "test"
+    destinations:
+      - "test2"
+
+    whitelist: [ ]
+
+
