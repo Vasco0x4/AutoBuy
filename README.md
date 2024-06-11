@@ -55,6 +55,12 @@ Si le message comprend 🟢 ET "test", il sera pris en compte par le bot et tran
 Le bot a un temps de réaction de moins d'une seconde, d'où l'intérêt du mapping qui évite un maximum de requêtes inutiles.
 
 
+![bitbit1](https://github.com/Unknow-kernel/AutoBuy/assets/63432221/29acf1de-1799-4a89-98b2-16f60070ffa7)
+![bitbit](https://github.com/Unknow-kernel/AutoBuy/assets/63432221/0c085d61-69c1-4859-b5fd-ecbeae66e90d)
+
+
+https://github.com/Unknow-kernel/AutoBuy/assets/63432221/7136fa56-a427-4998-b453-2d2cdfb13516
+
 
 
 
