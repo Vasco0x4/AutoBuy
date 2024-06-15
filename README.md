@@ -45,8 +45,7 @@ Vous pouvez également ajouter des filtres dans AutoBuy-main/auto/duplicator.py.
 
 Exemple :
 
-`python
-Copier le code
+`
 if all(emoji in msg.message for emoji in ["🟢"]) and "test" in msg.message.upper():
 `
 
